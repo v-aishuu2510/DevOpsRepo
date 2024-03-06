@@ -11,7 +11,7 @@ public class AppTest {
 		System.out.println("-----------------------");
 		System.out.println("Sub: "+ar.sub(300, 300));
 		System.out.println("-----------------------");
-		System.out.println("Mul: "+ar.mul(10, 11));
+		System.out.println("Mul: "+ar.mul(10, 11));//456 
 	}
 
 }
